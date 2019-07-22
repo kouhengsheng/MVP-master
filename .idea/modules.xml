@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVP-master.iml" filepath="$PROJECT_DIR$/MVP-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_LRecyclerview/lib_LRecyclerview.iml" filepath="$PROJECT_DIR$/lib_LRecyclerview/lib_LRecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_city_selector/lib_city_selector.iml" filepath="$PROJECT_DIR$/lib_city_selector/lib_city_selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_down_menu/lib_down_menu.iml" filepath="$PROJECT_DIR$/lib_down_menu/lib_down_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_rxhttp/lib_rxhttp.iml" filepath="$PROJECT_DIR$/lib_rxhttp/lib_rxhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_utils/lib_utils.iml" filepath="$PROJECT_DIR$/lib_utils/lib_utils.iml" />
+    </modules>
+  </component>
+</project>
